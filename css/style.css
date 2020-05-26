@@ -1,0 +1,45 @@
+header{
+    margin-top: 70px;
+}
+
+body{
+    background:rgb(15, 170, 170);
+    margin-left: 40px;
+    margin-right: 250px;
+}
+
+h1{
+    color: rgb(151, 18, 85);
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+ul{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 20px;
+list-style:none;
+}
+
+.img_padrao{
+margin-bottom: 20px;
+width: 250px;
+}
+
+.img_padrao_Vert{
+margin-bottom: 20px;
+width: 175px;
+}
+
+.icon{
+    margin-bottom: -25px;
+    margin-top: 15px;
+}
